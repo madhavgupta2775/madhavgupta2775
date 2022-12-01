@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @madhavgupta2775
 - 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning coding and improving my typing speed
+- 🌱 learning algorithms and hoping to solve as many problems as possible
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me those who found my github profile will already know :)
+- 📫 those who found my github profile will already know :)
 
 <!---
 madhavgupta2775/madhavgupta2775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
