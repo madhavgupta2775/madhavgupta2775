@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhavgupta2775
-- 👀 I’m interested in competitive coding
-- 🌱 learning algorithms and hoping to solve as many problems as possible
+- 👀 I’m interested in coding
+- 🌱 beginner in compcoding and backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 those who found my github profile will already know :)
 
