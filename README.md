@@ -6,11 +6,11 @@
 
 <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm Madhav Gupta, a freshman at BITS Pilani, Pilani Campus
+#### I'm Madhav Gupta, a freshman at BITS Pilani, Pilani Campus
 
-❤️Interested in competitive programming and backend development
+##### ❤️Interested in competitive programming and backend development
 
-📪contact me at f20220078@pilani.bits-pilani.ac.in
+##### 📪contact me at f20220078@pilani.bits-pilani.ac.in
 
 
 
