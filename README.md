@@ -21,7 +21,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775})
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true)](https://codeforces.com/profile/nannu)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" /></p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!---
