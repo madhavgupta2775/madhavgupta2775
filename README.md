@@ -20,10 +20,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775})
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nannu)](https://codeforces.com/profile/nannu)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nannu&show_icons=true&locale=en&layout=compact" alt="nannu" /></p>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true)](https://codeforces.com/profile/nannu)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" /></p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavgupta2775&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!---
 madhavgupta2775/madhavgupta2775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
