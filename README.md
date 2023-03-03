@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @madhavgupta2775
-- 👀 I’m interested in coding
-- 🌱 beginner in compcoding and backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 those who found my github profile will already know :)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 <!---
 madhavgupta2775/madhavgupta2775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
