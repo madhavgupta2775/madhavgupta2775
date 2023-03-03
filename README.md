@@ -6,6 +6,12 @@
 
 # HELLO THERE 🙂
 
+I'm Madhav Gupta, a freshman at BITS Pilani, Pilani Campus
+
+[![Atcoder](https://badges.joonhyung.xyz/atcoder/nannu.svg)](https://atcoder.jp/users/nannu)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/nannu.svg)](https://codeforces.com/profile/nannu)
+[![Codechef](https://cp-logo.vercel.app/codechef/madhav277?logo=true)](https://www.codechef.com/users/madhav277)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775})
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavgupta2775&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
