@@ -16,11 +16,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775})
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true)](https://codeforces.com/profile/nannu)
+[![Codeforces Stats](imhttps://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true)](https://codeforces.com/profile/nannu)
 <p><img align="left" height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" /></p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" />
-<img align="center" height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta2775&theme=midnight-purple&hide_border=true" /> <br><br>
+<img align = "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" />
+<img align = "center" height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta2775&theme=midnight-purple&hide_border=true" /> <br><br>
 <!---
 madhavgupta2775/madhavgupta2775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
