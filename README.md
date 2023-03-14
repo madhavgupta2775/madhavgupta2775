@@ -15,16 +15,16 @@
 <p align="right"><img align="center" src="https://cp-logo.vercel.app/codechef/madhav277?logo=true" /></p> -->
 <!-- [![Codeforces](https://badges.joonhyung.xyz/codeforces/nannu.svg)](https://codeforces.com/profile/nannu)
 [![Codechef](https://cp-logo.vercel.app/codechef/madhav277?logo=true)](https://www.codechef.com/users/madhav277) -->
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775})
+<p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775}" /> </p>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775}) -->
 
 <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true)](https://codeforces.com/profile/nannu) -->
 
 <p align="center"><img align="center" height="300em" src="https://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true" /> </p>
 
-<p align="center"><img align="left" height= "200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api/top-langs?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" /></p>
+<p align="center"><img align="center" height= "200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api/top-langs?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" />     <img align = "right" height="200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p>
 
-<p align="center"><img align = "right" height="200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p> <br> <br>
+<!-- <p align="center"><img align = "right" height="200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p> <br> <br> -->
 <p align="center"><img align = "center" height = "200em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta2775&theme=midnight-purple&hide_border=true" /></p> 
 <!---
 madhavgupta2775/madhavgupta2775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
