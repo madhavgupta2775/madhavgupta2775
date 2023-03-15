@@ -11,7 +11,9 @@
 <h4 align="center"> ❤️ Interested in competitive programming and backend development </h4>
 <h4 align="center"> 📪 contact me at f20220078@pilani.bits-pilani.ac.in </h4>
 
-<p align="center"><img align="center" src="https://badges.joonhyung.xyz/atcoder/nannu.svg" />    <img align="center" src="https://badges.joonhyung.xyz/codeforces/nannu.svg" />    <img align="center" src="https://cp-logo.vercel.app/codechef/madhav277?logo=true" /></p>
+<p align="center"> <a href= "https://atcoder.jp/users/nannu"><img align="center" src="https://badges.joonhyung.xyz/atcoder/nannu.svg" /> </a>
+ <a href="https://codeforces.com/profile/nannu"> <img align="center" src="https://badges.joonhyung.xyz/codeforces/nannu.svg" />  </a>
+  <a href="https://www.codechef.com/users/madhav277"> <img align="center" src="https://cp-logo.vercel.app/codechef/madhav277?logo=true" /> </a> </p>
 
 
 
