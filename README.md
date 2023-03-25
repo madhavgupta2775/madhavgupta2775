@@ -33,7 +33,9 @@
 
 <p align="center"><img align="center" height="280em" src="https://codeforces-readme-stats.vercel.app/api/card?username=nannu&theme=midnight-purple&show_icons=true&hide_border=true" /> </p>
 
-<p align="center"><img align="center" height= "180em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api/top-langs?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" />     <img align = "right" height="180em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p>
+<p align="center"><img align="center" height= "180em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api/top-langs?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true&&locale=en&layout=compact" alt="stats" /> </p>    
+
+<p align="center"><img align = "center" height="180em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p>
 
 
 <!-- <p align="center"><img align = "right" height="200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p> <br> <br> -->
