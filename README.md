@@ -6,6 +6,7 @@
 <!-- #### ❤️ Interested in competitive programming and backend development -->
 <!-- #### 📪 contact me at f20220078@pilani.bits-pilani.ac.in -->
 
+<!-- I LOVE TO CENTER STUFFFFF -->
 
 <h2 align="center"> I'm Madhav Gupta, a freshman at BITS Pilani, Pilani Campus </h2>
 <h4 align="center"> ❤️ Interested in competitive programming, cybersecurity and backend development </h4>
@@ -24,7 +25,7 @@
 
 
 
-<p align="center"><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775}" /> </p>
+<p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=madhavgupta2775.visitor-badge" /> </p>
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madhavgupta2775}) -->
