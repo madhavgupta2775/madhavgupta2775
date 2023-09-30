@@ -8,7 +8,7 @@
 
 <!-- I LOVE TO CENTER STUFFFFF -->
 
-<h2 align="center"> I'm Madhav Gupta, a freshman at BITS Pilani, Pilani Campus </h2>
+<h2 align="center"> I'm Madhav Gupta, sophomore at BITS Pilani, Pilani Campus pursuing BE CS</h2>
 <h4 align="center"> ❤️ Interested in competitive programming, cybersecurity and backend development </h4>
 <h4 align="center"> 📪 contact me at f20220078@pilani.bits-pilani.ac.in </h4>
 
