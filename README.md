@@ -42,7 +42,7 @@
 <!-- <p align="center"><img align = "right" height="200em" src="https://github-readme-stats-madhavgupta2775.vercel.app/api?username=madhavgupta2775&theme=midnight-purple&show_icons=true&hide_border=true" /></p> <br> <br> -->
 
 
-<p align="center"><img align = "center" height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgupta2775&theme=midnight-purple&hide_border=true" /></p> 
+<p align="center"><img align = "center" height = "180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=madhavgupta2775&theme=violet-dark&hide_border=false" /></p> 
 <!---
 madhavgupta2775/madhavgupta2775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
